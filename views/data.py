@@ -44,6 +44,7 @@ else:
     # Vérifier si les données existent déjà dans st.session_state
     if 'df1' in st.session_state:
         df1 = st.session_state['df1']
+        df2 = st.session_state['df2']
         file = st.session_state['file']
         st.write(f"Le fichier actuellement importé est '{file.name}'")
         st.write(df1)
