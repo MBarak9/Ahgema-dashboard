@@ -1,0 +1,23 @@
+.stLogo {
+    height: 80px;
+    width: 180px;
+}
+
+.stMetric {
+    font-size: 100px !important; /* Change the font size to your preference */
+    color: #FF6347 !important; /* Change the color to your preference */
+}
+#root > div:nth-child(1) > div.withScreencast > div > div > section.stMain.st-emotion-cache-bm2z3a.ea3mdgi8 > div.stMainBlockContainer.block-container.st-emotion-cache-1jicfl2.ea3mdgi5 > div > div > div > div:nth-child(4) {
+    margin-top: 0px !important;
+    border-color: #FF6347 !important;
+}
+
+#root > div:nth-child(1) > div.withScreencast > div > div > section.stMain.st-emotion-cache-bm2z3a.ea3mdgi8 > div.stMainBlockContainer.block-container.st-emotion-cache-1jicfl2.ea3mdgi5 > div > div > div > div:nth-child(4) {
+    margin-top: 10px !important;
+    border-color: #406e04 !important;
+}
+
+.stMetricLabel {
+    font-size: 20px !important;
+    color: #FF6347 !important;
+}
